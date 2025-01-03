@@ -12,7 +12,7 @@ Handled null values by filling them with the median (suitable for left-skewed di
 
 Data Preprocessing:
 
-Scaled numerical features such as price, age, area, and BHK.
+Scaled numerical features such as price, age, area, bathroom and BHK.
 Encoded the categorical feature location using one-hot encoding (get_dummies).
 
 Modeling:
