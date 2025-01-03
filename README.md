@@ -1,6 +1,6 @@
 
 Chennai House Price Predictor.
-This repository contains a machine learning model designed to predict house prices in Chennai, India. The model utilizes features such as age, BHK (Bedrooms, Halls, and Kitchens), area, and location to make predictions. The dataset, consisting of 2620 rows, was sourced from Kaggle.
+This repository contains a machine learning model designed to predict house prices in Chennai, India. The model utilizes features such as age, BHK (Bedrooms, Halls, and Kitchens), area,bathroom and location to make predictions. The dataset, consisting of 2620 rows, was sourced from Kaggle.
 
 Key Features
 
