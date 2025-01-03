@@ -26,4 +26,4 @@ Random Forest Regressor
 
 Result:
 
-Random Forest Regressor achieved a score of 0.922243, outperforming Linear Regression.
+Random Forest Regressor achieved a score of 0.9180193774937256, outperforming Linear Regression.
