@@ -1,4 +1,4 @@
-Here’s a polished LinkedIn project description tailored for showcasing your Chennai House Price Predictor:
+
 
 🚀 Chennai House Price Predictor
 
