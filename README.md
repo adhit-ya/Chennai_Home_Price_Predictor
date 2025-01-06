@@ -13,6 +13,7 @@ Exploratory Data Analysis (EDA):
 Removed unnecessary columns, including the builder's name and home construction status.
 Addressed skewness in data using the transformation log(x+1).
 Handled missing values by filling them with the median for skewed features like age and BHK.
+
 Data Preprocessing:
 
 Scaled key features: price, age, area, bathroom and BHK.
